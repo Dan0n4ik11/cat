@@ -49,4 +49,4 @@ async def cute(ctx):
     await ctx.send(file=picture)
 
 
-bot.run('MTIxMDIxNjM1MTAwODgxNzE3Mg.GGVsMD.RZDWlvisdbyNEa4B3wMlpwIUL1JBUqUU3IQRYs')
+bot.run('TOKEN HERE')
